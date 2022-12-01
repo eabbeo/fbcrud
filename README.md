@@ -1,6 +1,6 @@
 # fbcrud
 
-A new Flutter project.
+A simple flutter projecting demonstrating firebase CRUD operations
 
 ## Getting Started
 
